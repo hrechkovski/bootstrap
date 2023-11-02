@@ -1,0 +1,41 @@
+body {
+  font-family: "Karla", serif;
+  font-size: 16px;
+}
+.container-width {
+  max-width: 96rem;
+}
+.background {
+  background-color: hsl(204, 43%, 93%);
+}
+.first-block {
+  background-color: white;
+  margin: 10% 10% 0 10%;
+}
+.h2-title {
+  color: rgb(26, 179, 179);
+}
+.p-adjust {
+  color: hsl(71, 62%, 43%);
+}
+.text-adjust {
+  color: hsl(218, 22%, 67%);
+  line-height: 1.8;
+}
+.second-block {
+  background-color: rgb(26, 179, 179);
+  margin: 0% 10% 0 10%;
+}
+.color-white-opacity {
+  color: rgba(255, 255, 255, 0.509);
+}
+.color-white-text {
+  color: rgba(255, 255, 255, 0.749);
+}
+.btn-bg {
+  background-color: hsl(71, 65%, 45%);
+}
+.third-block {
+  background-color: rgb(28, 187, 187);
+  margin: 0 10% 10% 10%;
+}
