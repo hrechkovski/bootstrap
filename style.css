@@ -1,9 +1,8 @@
 body {
   font-family: "Karla", serif;
-  font-size: 16px;
 }
 .container-width {
-  max-width: 96rem;
+  max-width: 1440px;
 }
 .background {
   background-color: hsl(204, 43%, 93%);
@@ -21,6 +20,7 @@ body {
 .text-adjust {
   color: hsl(218, 22%, 67%);
   line-height: 1.8;
+  font-size: 14px;
 }
 .second-block {
   background-color: rgb(26, 179, 179);
